@@ -70,5 +70,4 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 
 <h2> 👨‍💻 My information </h2>
 
-[![Kael's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelSM)](https://github.com/KaelSM/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSM&langs_count=8)
+[![Kael's GitHub stats](github-readme-stats-vert-beta.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
