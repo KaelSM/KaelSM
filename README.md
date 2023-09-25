@@ -1,8 +1,19 @@
 <h2> Hi, I'm Kael Moreira!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner Student at <a href="https://www.stlawrencecollege.ca/">St Lawrence College</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Student at <a href="https://elentra.com/">Elentra </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<p><em>Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">Universidad de las Americas </a> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
+<p><em>Software Enginner Student at <a href="https://www.stlawrencecollege.ca/">St Lawrence College</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Student at <a href="https://elentra.com/">Elentra </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">Universidad de las Americas </a> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
 </em></p>
+<p align="center">
+  <a href= "https://github.com/KaelSM">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
+  </a>
+  <a href= "https://www.linkedin.com/in/kael-moreira/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href= "https://kaelsm.github.io/KaelProgrammer-Designer.github.io/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
+  </a>
+</p>
 <br>
 
 <h2>🖥️ Programming Technologies </h2>
@@ -59,5 +70,5 @@
 
 <h2> 👨‍💻 My information </h2>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+[![Kael's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaelSM)](https://github.com/KaelSM/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaelSM&langs_count=8)
