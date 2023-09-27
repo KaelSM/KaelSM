@@ -73,7 +73,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-151-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-731.5%20thousand%20lines%20of%20code-blue)
 
@@ -154,5 +154,5 @@ SCSS                     1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaelSM/KaelSM/main/assets/bar_graph.png)
 
 
- Last Updated on 27/09/2023 04:16:31 UTC
+ Last Updated on 27/09/2023 04:17:32 UTC
 <!--END_SECTION:waka-->
