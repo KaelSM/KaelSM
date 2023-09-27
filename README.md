@@ -68,7 +68,8 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 ![ZBrush](https://img.shields.io/badge/-Zbrush-red?style=flat-square&logo=zbrush)
 ![Invision](https://img.shields.io/badge/-Invision-black?style=flat-square&logo=invision)
 
-<!--<h2> 👨‍💻 My information </h2> -->
+<h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
