@@ -71,7 +71,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 <h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-158-blue)
 
@@ -154,5 +154,5 @@ JavaScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaelSM/KaelSM/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2023 04:08:33 UTC
+ Last Updated on 02/10/2023 04:09:30 UTC
 <!--END_SECTION:waka-->
