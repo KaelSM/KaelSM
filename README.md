@@ -79,7 +79,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 
 **🐱 My GitHub Data** 
 
-> 📦 332.6 kB Used in GitHub's Storage 
+> 📦 332.7 kB Used in GitHub's Storage 
  > 
 > 🏆 284 Contributions in the Year 2023
  > 
@@ -154,5 +154,5 @@ JavaScript               2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaelSM/KaelSM/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2023 14:22:24 UTC
+ Last Updated on 06/10/2023 14:23:16 UTC
 <!--END_SECTION:waka-->
