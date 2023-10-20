@@ -85,7 +85,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 16 Private Repositories 
  > 
@@ -155,5 +155,5 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaelSM/KaelSM/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2023 07:00:08 UTC
+ Last Updated on 20/10/2023 07:01:24 UTC
 <!--END_SECTION:waka-->
