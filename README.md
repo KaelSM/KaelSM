@@ -71,7 +71,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 <h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-59%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
 
@@ -79,7 +79,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 
 **🐱 My GitHub Data** 
 
-> 📦 530.5 kB Used in GitHub's Storage 
+> 📦 530.6 kB Used in GitHub's Storage 
  > 
 > 🏆 346 Contributions in the Year 2023
  > 
@@ -155,5 +155,5 @@ C++                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![Lines of Code chart](https://raw.githubusercontent.com/KaelSM/KaelSM/main/assets/bar_graph.png)
 
 
- Last Updated on 24/10/2023 02:05:39 UTC
+ Last Updated on 24/10/2023 02:06:46 UTC
 <!--END_SECTION:waka-->
