@@ -35,6 +35,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![COBOL](https://img.shields.io/badge/-COBOL-E34A86?style=flat-square&logo=COBOL)
 ![JCL](https://img.shields.io/badge/-JCL-00599C?style=flat-square&logo=JCL)
+![Ruby](https://img.shields.io/badge/-ruby-00599C?style=flat-square&logo=JCL)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
