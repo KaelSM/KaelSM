@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kael
-
-
-<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmRvNzZ2cGZ4cjF4cDduZ21qZ2U0ZmdqM3hjc25zejZjdWdqMXJodCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif)" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Enginner Student at <a href="https://www.stlawrencecollege.ca/">St Lawrence College</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Student at <a href="https://elentra.com/">Elentra </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
 Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">Universidad de las Americas </a> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
 </em></p>
