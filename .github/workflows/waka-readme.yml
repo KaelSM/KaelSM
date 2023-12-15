@@ -30,6 +30,6 @@ jobs:
           SHOW_PROJECTS: "False"          
           SHOW_EDITORS: "False"
           SHOW_LOC_CHART: "False"
-          IGNORED_REPOS: "KaelSM"
+          IGNORED_REPOS: "KaelSM, github-readme-stats, KaelProgrammer-Designer.github.io, ArcedexPokeTr"
           SYMBOL_VERSION: 2
           LOCALE: "en"
