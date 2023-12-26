@@ -96,13 +96,13 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 <h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-169-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 786.6 kB Used in GitHub's Storage 
+> 📦 786.7 kB Used in GitHub's Storage 
  > 
 > 🏆 444 Contributions in the Year 2023
  > 
@@ -159,5 +159,5 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25/12/2023 05:04:54 UTC
+ Last Updated on 26/12/2023 01:03:05 UTC
 <!--END_SECTION:waka-->
