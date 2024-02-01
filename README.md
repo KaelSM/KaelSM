@@ -110,7 +110,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 5 Private Repositories 
+> 🔑 6 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -155,5 +155,5 @@ PHP                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/02/2024 08:19:06 UTC
+ Last Updated on 01/02/2024 08:20:00 UTC
 <!--END_SECTION:waka-->
