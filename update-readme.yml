@@ -19,7 +19,6 @@ jobs:
           SHOW_PROJECTS: "False"
           IGNORED_REPOS: "KaelSM"
           TIME_RANGE: last_7_days
-          TIME_RANGE: last_30_days
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
