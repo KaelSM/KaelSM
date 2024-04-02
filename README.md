@@ -96,7 +96,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 <h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -157,5 +157,5 @@ Java                     2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 02/04/2024 18:43:21 UTC
+ Last Updated on 02/04/2024 18:44:33 UTC
 <!--END_SECTION:waka-->
