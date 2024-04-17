@@ -102,7 +102,7 @@ Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">U
 
 **🐱 My GitHub Data** 
 
-> 📦 917.1 kB Used in GitHub's Storage 
+> 📦 917.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,5 +157,5 @@ Java                     2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 17/04/2024 23:41:26 UTC
+ Last Updated on 17/04/2024 23:42:39 UTC
 <!--END_SECTION:waka-->
