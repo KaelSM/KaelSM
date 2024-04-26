@@ -1,15 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+new&color=%23808080&size=40&width=800&duration=6969&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kael
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Enginner Student at <a href="https://www.stlawrencecollege.ca/">St Lawrence College</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Student at <a href="https://elentra.com/">Elentra </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
-Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">Universidad de las Americas </a> <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="30">
+
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Kael Moreira
+<p><em>Developer Student at <a href="https://elentra.com/">Elentra </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
+Studied Computer Programming and Analysis at <a href="https://www.stlawrencecollege.ca/">St Lawrence College</a> <br>
+Studied Multimedia Design and Animation at  <a href="https://www.udla.edu.ec/">Universidad de las Americas </a>
 </em></p><br>
 <p align="center">
-  <a href= "https://github.com/KaelSM">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
   <a href= "https://www.linkedin.com/in/kael-moreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    ![LinkedIn_logo_small](https://github.com/KaelSM/KaelSM/assets/113145289/0821c304-09d8-441c-ae8f-4437f8f29150)
   </a>
   <a href= "https://kaelsm.github.io/KaelProgrammer-Designer.github.io/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
