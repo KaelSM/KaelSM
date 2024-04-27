@@ -90,9 +90,9 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 13 Public Repositories 
+> 📜 14 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 5 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -137,5 +137,5 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/04/2024 02:49:48 UTC
+ Last Updated on 27/04/2024 02:50:53 UTC
 <!--END_SECTION:waka-->
