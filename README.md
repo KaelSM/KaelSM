@@ -84,7 +84,7 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
 
 **🐱 My GitHub Data** 
 
-> 📦 897.0 kB Used in GitHub's Storage 
+> 📦 896.9 kB Used in GitHub's Storage 
  > 
 > 🏆 113 Contributions in the Year 2024
  > 
@@ -137,5 +137,5 @@ Java                     1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 26/05/2024 10:47:29 UTC
+ Last Updated on 26/05/2024 10:48:44 UTC
 <!--END_SECTION:waka-->
