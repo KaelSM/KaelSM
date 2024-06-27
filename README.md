@@ -84,8 +84,6 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
 
 > 📦 841.6 kB Used in GitHub's Storage 
  > 
-> 🏆 110 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 13 Public Repositories 
@@ -135,5 +133,5 @@ PHP                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 27/06/2024 00:52:23 UTC
+ Last Updated on 27/06/2024 00:53:28 UTC
 <!--END_SECTION:waka-->
