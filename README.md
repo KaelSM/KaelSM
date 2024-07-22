@@ -78,7 +78,7 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-249%20hrs%2050%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -135,5 +135,5 @@ PHP                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/07/2024 02:22:53 UTC
+ Last Updated on 22/07/2024 02:24:07 UTC
 <!--END_SECTION:waka-->
