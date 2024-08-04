@@ -84,6 +84,8 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
 
 > 📦 853.7 kB Used in GitHub's Storage 
  > 
+> 🏆 120 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -137,5 +139,5 @@ Visual Basic 6.0         1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 04/08/2024 00:00:07 UTC
+ Last Updated on 04/08/2024 00:01:26 UTC
 <!--END_SECTION:waka-->
