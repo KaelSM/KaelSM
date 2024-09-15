@@ -76,15 +76,13 @@ Studied Multimedia Design and Animation at <a href="https://www.udla.edu.ec/">Un
 <h2> 👨‍💻 My information </h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 889.9 kB Used in GitHub's Storage 
- > 
-> 🏆 152 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -138,5 +136,5 @@ Go                       2 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/09/2024 19:31:10 UTC
+ Last Updated on 15/09/2024 19:32:42 UTC
 <!--END_SECTION:waka-->
