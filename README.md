@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kael Moreira
-**Software Engineer at [Elentra](https://elentra.com/)**  
+**Open For Work**  
 🎓 **Computer Programming at [St. Lawrence College](https://www.stlawrencecollege.ca/)**  
 🎨 **Multimedia Design at [Universidad de las Américas](https://www.udla.edu.ec/)**  
 
