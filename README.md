@@ -18,13 +18,6 @@
 
 ---
 
-//## 🚀 Featured Projects
-
-- **[D&D Character Builder](https://github.com/kaelsm/dnd-character-builder)**: Flutter app for D&D character creation and leveling.  
-- **[Raven-bot](https://github.com/kaelsm/raven-bot)**: Discord bot for managing D&D dice rolls.  
-
----
-
 ## 📊 GitHub Stats
 
 ![Kael's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelsm&show_icons=true&theme=dracula)
