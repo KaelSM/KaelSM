@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Kael Moreira
-**Open For Work**  
+🐦‍🔥 **Web Developer at [Fenix ALma Solutions Inc](https://fenixalma.com/)**  
 🎓 **Computer Programming at [St. Lawrence College](https://www.stlawrencecollege.ca/)**  
 🎨 **Multimedia Design at [Universidad de las Américas](https://www.udla.edu.ec/)**  
 
@@ -18,6 +18,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Kael's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaelsm&show_icons=true&theme=dracula)
